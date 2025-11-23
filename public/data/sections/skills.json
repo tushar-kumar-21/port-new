@@ -55,15 +55,15 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Web}} Development",
+                            "title": "{{Frontend}} Development",
                             "text": "I create beautiful and functional websites."
                         },
                         "es": {
-                            "title": "Desarrollo {{Web}}",
+                            "title": "Desarrollo {{Frontend}}",
                             "text": "Creo sitios web hermosos y funcionales."
                         },
                         "fr": {
-                            "title": "Développement {{Web}}",
+                            "title": "Développement {{Frontend}}",
                             "text": "Je crée des sites web beaux et fonctionnels."
                         },
                         "ko": {
@@ -74,41 +74,6 @@
                 },
                 {
                     "id": 2,
-                    "img": "",
-                    "faIcon": "fa-solid fa-database",
-                    "faIconColors": {
-                        "bg": "",
-                        "fill": ""
-                    },
-                    "date": {
-                        "year": null,
-                        "month": null
-                    },
-                    "link": {
-                        "href": "",
-                        "tooltipString": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "{{Database}} management",
-                            "text": "I can handle your data effectively and efficiently!"
-                        },
-                        "es": {
-                            "title": "Gestión de {{bases de datos}}",
-                            "text": "¡Puedo manejar sus datos de manera efectiva y eficiente!"
-                        },
-                        "fr": {
-                            "title": "Gestion de {{bases de données}}",
-                            "text": "Je peux gérer vos données de manière efficace et efficiente !"
-                        },
-                        "ko": {
-                            "title": "{{데이터베이스}} 관리",
-                            "text": "데이터를 효과적이고 효율적으로 처리할 수 있습니다. 최고의 관행을 사용하여 데이터베이스를 관리합니다!"
-                        }
-                    }
-                },
-                {
-                    "id": 3,
                     "img": "",
                     "faIcon": "fa-solid fa-mobile-screen-button",
                     "faIconColors": {
@@ -125,7 +90,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{App}} creation",
+                            "title": "{{App}} Development",
                             "text": "I can make creative and innovative apps!"
                         },
                         "es": {
@@ -143,9 +108,9 @@
                     }
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "img": "",
-                    "faIcon": "fa-solid fa-window-restore",
+                    "faIcon": "fa-solid fa-server",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -160,27 +125,27 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{REST}} APIs",
-                            "text": "I can build API services!"
+                            "title": "{{Backend}} Development",
+                            "text": "I build robust and scalable backend systems."
                         },
                         "es": {
-                            "title": "APIs {{REST}}",
-                            "text": "¡Puedo construir servicios API!"
+                            "title": "Desarrollo de {{Backend}}",
+                            "text": "Construyo sistemas de backend robustos y escalables."
                         },
                         "fr": {
-                            "title": "APIs {{REST}}",
-                            "text": "Je peux créer des services API !"
+                            "title": "Développement {{Backend}}",
+                            "text": "Je construis des systèmes backend robustes et évolutifs."
                         },
                         "ko": {
-                            "title": "{{REST}} API",
-                            "text": "API 서비스를 구축할 수 있습니다!"
+                            "title": "{{백엔드}} 개발",
+                            "text": "강력하고 확장 가능한 백엔드 시스템을 구축합니다."
                         }
                     }
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "img": "",
-                    "faIcon": "fa-solid fa-lock",
+                    "faIcon": "fa-solid fa-cogs",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -195,20 +160,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Information {{Security}}",
-                            "text": "Security is my middle name!"
+                            "title": "{{DevOps}}",
+                            "text": "I streamline development and operations."
                         },
                         "es": {
-                            "title": "{{Seguridad}} Informática",
-                            "text": "¡La seguridad es mi segundo nombre!"
+                            "title": "{{DevOps}}",
+                            "text": "Optimizo el desarrollo y las operaciones."
                         },
                         "fr": {
-                            "title": "{{Sécurité}} Informatique",
-                            "text": "La sécurité est mon deuxième prénom !"
+                            "title": "{{DevOps}}",
+                            "text": "Je rationalise le développement et les opérations."
                         },
                         "ko": {
-                            "title": "{{정보}} 보안",
-                            "text": "보안은 내 중간 이름입니다!"
+                            "title": "{{데브옵스}}",
+                            "text": "개발 및 운영을 간소화합니다."
                         }
                     }
                 }
