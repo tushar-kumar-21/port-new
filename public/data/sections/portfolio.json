@@ -780,6 +780,71 @@
                             ]
                         }
                     }
+                },
+                {
+                    "id": 12,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-route",
+                    "faIconColors": {
+                        "bg": "#0077B6",
+                        "fill": "#FFFFFF"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://plan.roadtriptribes.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Roadtriptribes - Travel Planning Platform",
+                            "text": "Created a <b>React.js</b> & <b>Mapbox</b>-powered app that slashed itinerary planning time by 50% and improved cost accuracy by 95% using auto-split logic. Later built a 2nd version of the platform with group trip creation, manual trip planning, and other advanced features.",
+                            "tags": [
+                                "Reactjs",
+                                "Mapbox",
+                                "Nodejs",
+                                "Bootstrap"
+                            ]
+                        },
+                        "es": {
+                            "title": "Roadtriptribes - Plataforma de Planificación de Viajes",
+                            "text": "Creé una aplicación con <b>React.js</b> y <b>Mapbox</b> que redujo el tiempo de planificación de itinerarios en un 50% y mejoró la precisión de los costos en un 95% mediante una lógica de división automática. Más tarde, creé una segunda versión de la plataforma con creación de viajes en grupo, planificación manual de viajes y otras funciones avanzadas.",
+                            "tags": [
+                                "Reactjs",
+                                "Mapbox",
+
+                                "Nodejs",
+                                "Bootstrap"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Roadtriptribes - Plateforme de Planification de Voyage",
+                            "text": "Création d'une application optimisée par <b>React.js</b> et <b>Mapbox</b> qui a réduit le temps de planification d'itinéraire de 50 % et amélioré la précision des coûts de 95 % grâce à une logique de répartition automatique. Par la suite, j'ai développé une deuxième version de la plateforme avec la création de voyages de groupe, la planification manuelle de voyages et d'autres fonctionnalités avancées.",
+                            "tags": [
+                                "Reactjs",
+                                "Mapbox",
+                                "Nodejs",
+                                "Bootstrap"
+                            ]
+                        },
+                        "ko": {
+                            "title": "Roadtriptribes - 여행 계획 플랫폼",
+                            "text": "자동 분할 로직을 사용하여 일정 계획 시간을 50% 단축하고 비용 정확도를 95% 향상시킨 <b>React.js</b> 및 <b>Mapbox</b> 기반 앱을 만들었습니다. 나중에는 그룹 여행 생성, 수동 여행 계획 및 기타 고급 기능을 갖춘 플랫폼의 두 번째 버전을 구축했습니다.",
+                            "tags": [
+                                "Reactjs",
+                                "Mapbox",
+                                "Nodejs",
+                                "Bootstrap"
+                            ]
+                        }
+                    }
                 }
             ]
         }
